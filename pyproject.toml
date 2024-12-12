@@ -21,7 +21,7 @@ select = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
-Pillow = ">=9.3,<11.0"
+Pillow = "^11.0.0"
 numpy = "^1.26.4"
 scikit-learn = "^1.2"
 requests = "^2.32.3"
