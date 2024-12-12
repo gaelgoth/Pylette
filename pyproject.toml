@@ -31,7 +31,7 @@ typer = "^0.12.5"
 mypy = "^1.10.0"
 types-requests = "^2.32.0.20240602"
 types-pillow = "^10.2.0.20240520"
-pre-commit = "^3.7.1"
+pre-commit = ">=3.7.1,<5.0.0"
 pytest = "^8.2.2"
 opencv-python = "^4.10.0.84"
 mkdocs = {version = "^1.6.0", extras = ["python"]}
